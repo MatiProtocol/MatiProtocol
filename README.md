@@ -1,1 +1,1 @@
-Hola, estoy usando GitHub!
+Hola
